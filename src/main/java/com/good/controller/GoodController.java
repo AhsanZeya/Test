@@ -10,5 +10,7 @@ public class GoodController {
 	public String newOk() {
 		return "new";
 	}
+	
 
+	//Second Edituting
 }
